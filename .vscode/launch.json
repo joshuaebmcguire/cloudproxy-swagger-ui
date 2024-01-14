@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "Upload",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/scripts/upload.js"
+      "program": "/scripts/upload.js"
     }
   ]
 }
